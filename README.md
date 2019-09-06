@@ -5,6 +5,7 @@ A fast k-plex enumberation algorithm
 ```shell
 mkdir build
 cd build
+cmake ..
 make -j4
 ```
 
